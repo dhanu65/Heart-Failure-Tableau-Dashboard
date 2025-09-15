@@ -1,0 +1,5 @@
+Dataset: Heart Failure Clinical Records Dataset
+Source: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
+Rows: 300
+Columns: 13
+Notes: The dataset is hosted on Kaggle. This repo does not include the full CSV due to license,but you can download it directly from Kaggle.
