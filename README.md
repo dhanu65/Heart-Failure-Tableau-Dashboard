@@ -14,6 +14,10 @@
 ### Histograms
 ![Histograms](images/histograms.png)
 
+### Final Dashboard
+![Final Dashboard](images/final_dashboard.png)
+
+
 ---
 
 ## 🎯 Objective
@@ -59,3 +63,4 @@ See `dataset_info.txt` for details.
 
 ## 📜 License
 This project is licensed under the MIT License.  
+
