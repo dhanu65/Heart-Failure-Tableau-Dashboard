@@ -38,9 +38,8 @@ See `dataset_info.txt` for details.
 ---
 
 ## 🛠️ Tools Used
-- Tableau (for dashboard creation)  
-- Excel / Python (pandas) for preprocessing (optional)
-
+- Tableau (for dashboard creation)
+- 
 ---
 
 ## 📈 Visualizations
@@ -63,4 +62,5 @@ See `dataset_info.txt` for details.
 
 ## 📜 License
 This project is licensed under the MIT License.  
+
 
